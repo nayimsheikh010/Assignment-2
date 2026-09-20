@@ -49,15 +49,15 @@ class SecondaryNumbersScreen extends StatelessWidget {
 
               // First Card - Updated with your number
               const PhoneNumberCard(
-                phoneNumber: '01571339897',
-                label: 'Yeatasim Billah',
+                phoneNumber: '01701085381',
+                label: 'Nayim Sheikh',
                 status: 'Added just now',
               ),
               const SizedBox(height: 16),
 
               // Second Card
               const PhoneNumberCard(
-                phoneNumber: '22-CSE-052',
+                phoneNumber: '22-CSE-010',
                 label: 'Roll Number',
                 status: 'Verified',
               ),
